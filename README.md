@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEJhKnJdvY1bg/profile-displaybackgroundimage-shrink_200_800/B56ZTvx8A4HoAU-/0/1739189634000?e=1779321600&v=beta&t=BmYw7mOIjsa56WEVdLPBGKESpNtVAfRqspEqjRI82ZQ" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">Hi, I'm M. Amiryan P. 👋</h1>
+<h1 align="center">Hi, I'm Amiryan. 👋</h1>
 <p align="center">
   <strong>Information Technology Student | Fullstack & Mobile Developer</strong>
 </p>
@@ -14,12 +14,12 @@
 ---
 
 ### 💫 About Me
-Saya adalah mahasiswa **Teknologi Informasi** yang berfokus pada pengembangan aplikasi modern (Web & Mobile). Meskipun fokus utama saya adalah *Software Development*, saya memiliki landasan kuat di bidang *Networking* dan *DevOps* yang membantu saya membangun aplikasi yang terukur dan aman.
+I am an **Information Technology** student specializing in modern web and mobile application development. While my primary focus lies in building seamless user experiences, I possess a solid foundation in **Networking** and **DevOps**, enabling me to develop scalable, secure, and well-structured systems.
 
 - 🎓 **Education:** Information Technology Student.
-- 🚀 **Current Focus:** Building scalable web apps with Next.js and Mobile apps with Flutter/React Native.
-- 🛠️ **SysAdmin Side:** Experienced with Ubuntu, Docker, and Cisco Networking.
-- ⚡ **Fun Fact:** I bridge the gap between clean code and robust infrastructure.
+- 🚀 **Current Focus:** Developing high-performance web apps with Next.js and cross-platform mobile apps with Flutter & React Native.
+- 🛠️ **Infrastructure:** Proficient in Ubuntu Linux, Docker containerization, and Cisco Networking.
+- ⚡ **Goal:** Bridging the gap between robust backend logic and intuitive frontend design.
 
 ---
 
@@ -32,7 +32,7 @@ Saya adalah mahasiswa **Teknologi Informasi** yang berfokus pada pengembangan ap
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-#### 🌐 Frameworks & Libraries
+#### 🌐 Web Frameworks
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -54,20 +54,12 @@ Saya adalah mahasiswa **Teknologi Informasi** yang berfokus pada pengembangan ap
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elbanteny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elbanteny&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/m-amiryan-p" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emailanda@example.com">
+  <a href="mailto:m.amiryan.p@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
